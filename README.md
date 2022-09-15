@@ -1,4 +1,6 @@
 ### Hi there 👋
+^_^ It's Mujahid
+😄 Pronouns: iron_lad
 
 <!--
 **mujahidali88094/mujahidali88094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
