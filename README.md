@@ -2,11 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&color=FFFFFF&multiline=true&width=435&height=60&lines=It's+Mujahid;you+can+call+me+iron_lad)](https://git.io/typing-svg)
 
-[Resume](https://mujahidali88094.github.io/mujahidali88094/resume.pdf)
-
-![Profile views](https://gpvc.arturio.dev/mujahidali88094)  
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mujahidali88094&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Resume](https://mujahidali88094.github.io/mujahidali88094/resume.pdf) | [LeetCode](https://leetcode.com/mujahidali88094) | [Codeforces](https://codeforces.com/profile/iron_lad)
 
 [![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidali88094&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
