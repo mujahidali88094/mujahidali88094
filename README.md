@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&color=FFFFFF&multiline=true&width=435&height=60&lines=It's+Mujahid;you+can+call+me+iron_lad)](https://git.io/typing-svg)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mujahid-ali-322510227/)
+[Resume](https://mujahidali88094.github.io/mujahidali88094/resume.pdf)
 
 ![Profile views](https://gpvc.arturio.dev/mujahidali88094)  
 
