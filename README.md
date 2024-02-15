@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&color=FFFFFF&multiline=true&width=435&height=60&lines=It's+Mujahid;you+can+call+me+iron_lad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&color=FFFFFF&multiline=true&width=435&height=60&lines=This+is+Mujahid...)](https://git.io/typing-svg)
 
 [Resume](https://mujahidali88094.github.io/mujahidali88094/resume.pdf) | [LeetCode](https://leetcode.com/mujahidali88094) | [Codeforces](https://codeforces.com/profile/iron_lad)
 
